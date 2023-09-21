@@ -402,7 +402,7 @@ nav .fa-solid{
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     #header{
-        background-image: url('./images/Piyush-Mobile-pic-2.jpg');
+        background-image: url(./images/Piyush-Mobile-pic-2.jpg);
     }
 
     .header-text{
